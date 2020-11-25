@@ -4,9 +4,8 @@ date: 2020-11-04
 ---
 
 # La Experiencia del Usuario
-## Hassan Montero, Yusef
-## Martín Fernández, Francisco J.
-## Resumen: Revisión y análisis de diferentes modelos teóricos y propuestas metodológicas, con el objeto de clarificar y componer una aproximación a la
+
+Resumen: Revisión y análisis de diferentes modelos teóricos y propuestas metodológicas, con el objeto de clarificar y componer una aproximación a la
 Experiencia del Usuario.
 # 1. HCI y Usabilidad
 
